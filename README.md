@@ -32,5 +32,5 @@ How to Ace the Low-level Design Interviews
 https://www.udemy.com/course/low-level-system-design-an-interview-perspective/
 
 
-
+https://leetcode.com/discuss/interview-question/object-oriented-design/1929267/Parking-Lot-or-Machine-Coding-or-OOD-or-Feedback
 
