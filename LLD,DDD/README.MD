@@ -33,3 +33,11 @@ https://brunch.co.kr/@springboot/714
  
  DDD
  STUDY
+ 
+ 걍 uml학습하느거이
+ 
+ https://m.blog.naver.com/lhb8106/222212585698
+ 
+ 자바 영화관 설계
+ 
+ https://www.teamblind.com/post/How-to-master-low-level-system-design-rGFPi0V3
