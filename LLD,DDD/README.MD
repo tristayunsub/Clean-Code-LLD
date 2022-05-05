@@ -42,6 +42,8 @@ https://brunch.co.kr/@springboot/714
  
  https://www.teamblind.com/post/How-to-master-low-level-system-design-rGFPi0V3
  
+ 
+ ```
  Goals of the System (in short) [ 2 mins ]:
 
 System Requirements & Feature expectations (narrowed down Detailed Scope) [2 min] :
@@ -77,3 +79,5 @@ Bottlenecks [12 mins]:
 6.load balancing and proxy
 7.CDN
 8.Any other essential case in your mind to solve?
+
+```
