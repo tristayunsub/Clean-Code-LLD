@@ -43,6 +43,11 @@ https://brunch.co.kr/@springboot/714
  https://www.teamblind.com/post/How-to-master-low-level-system-design-rGFPi0V3
  
  
+ 
+ https://www.youtube.com/watch?v=wLve9WVAeio&ab_channel=JungsooHan
+ UML 객체지향 디자인 인강
+ 
+ 
  ```
  Goals of the System (in short) [ 2 mins ]:
 
@@ -81,3 +86,8 @@ Bottlenecks [12 mins]:
 8.Any other essential case in your mind to solve?
 
 ```
+
+
+https://dataonair.or.kr/db-tech-reference/d-lounge/technical-data/?mod=document&uid=235151
+
+UML 서비스 컴포넌트를 사용하여 SOA 아키텍처 패턴 나타내기
