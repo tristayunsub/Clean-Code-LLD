@@ -41,3 +41,39 @@ https://brunch.co.kr/@springboot/714
  자바 영화관 설계
  
  https://www.teamblind.com/post/How-to-master-low-level-system-design-rGFPi0V3
+ 
+ Goals of the System (in short) [ 2 mins ]:
+
+System Requirements & Feature expectations (narrowed down Detailed Scope) [2 min] :
+
+Use case diagram [ 3 mins ]
+a. Actors in our system:
+b. Top all use cases OR use cases for each Actor:
+
+System interface definition [ 2-3 mins ]:
+- APIs of your OO design
+
+Class diagram [ 5 mins ]
+a. main classes
+b. UML Class diagram
+
+Activity diagrams Or Sequence Diagram [5 mins]
+Use Case1 ...
+Use Case2 ...
+...
+
+Code [15 mins] :
+a. Enums, Data types and Constants
+b. Other important Entities
+b. Concurrency
+c. Design Pattern
+
+Bottlenecks [12 mins]:
+1.processing and servers
+2.storage
+3.caching
+4.concurrency and communication
+5.security
+6.load balancing and proxy
+7.CDN
+8.Any other essential case in your mind to solve?
