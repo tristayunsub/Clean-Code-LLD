@@ -91,3 +91,8 @@ Bottlenecks [12 mins]:
 https://dataonair.or.kr/db-tech-reference/d-lounge/technical-data/?mod=document&uid=235151
 
 UML 서비스 컴포넌트를 사용하여 SOA 아키텍처 패턴 나타내기
+
+https://github.com/tssovi/grokking-the-object-oriented-design-interview
+GROKKING OOD
+
+https://www.youtube.com/watch?v=DSGsa0pu8-k&list=PLVmewxuuuKs-MldK0ADcXGYanMNL5ALjH&ab_channel=SuccessinTech
